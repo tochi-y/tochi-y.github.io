@@ -7,6 +7,8 @@ title: "2人育児しながらAtCoder続けて緑になった"
 
 # 2人育児しながらAtCoder続けて緑になった
 
+2020-12-29 [@tochi_ondy](https://twitter.com/tochi_ondy)
+
 ---
 
 <div class="r-stack">
@@ -106,7 +108,7 @@ https://atcoder.jp/
   - 私: 上の子寝かしつけ
   - 妻: 下の子寝かしつけ
 - AtCoderで家庭崩壊したくないので
-  - 妻の了承をもらいながら家庭を優先
+  - 妻の了承をもらいつつも、家庭を優先
   - 家事はコンテスト前後で済ませる
 
 ---
